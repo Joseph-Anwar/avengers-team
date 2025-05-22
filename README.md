@@ -1,7 +1,7 @@
 # Name of Application: DIGIO
 Link To Google Drive Folder : https://drive.google.com/drive/folders/1MWUDMPkJaIcuqa3h_iSa98fmnWIYuV9x?usp=sharing
 # Figma Link
-https://www.figma.com/design/ZSFrUYfQilhAPcm30CF9o5/Final-Project-DEPI2
+https://www.figma.com/design/ZSFrUYfQilhAPcm30CF9o5/Final-Project-DEPI2?node-id=98-544&t=O9T4mISawrXovOIf-1
 
 # Team Members:
 Abdulrahman Ahmed Abdullah -
